@@ -18,4 +18,7 @@ int main(){
     //how memory is allocated in heap using C 
     //q=(int *)mallock(5*sizeof(int))
     //instead of sizeof(int) you can also use the no of bytes you want to assign in the heap memory
+    //and when we have finished using heap memory we should also delete it, it is a good practice.
+    delete [] q;
+    //just because it was an array you need to mention sq. brackets for anything else just mention the variable name.  
 }
