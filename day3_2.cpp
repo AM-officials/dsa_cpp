@@ -16,3 +16,12 @@ int main(){
 
     return 0;
 }
+
+/*
+• Function is a piece of code which performs a specific task
+• Grouping instructions is called function
+• They are called as modules or procedures
+• The main task can be divided into several small task in the form of
+functions this type of programming is also called as modular or
+procedural programming
+*/
