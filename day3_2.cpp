@@ -23,5 +23,5 @@ int main(){
 • They are called as modules or procedures
 • The main task can be divided into several small task in the form of
 functions this type of programming is also called as modular or
-procedural programming
+procedural programming.
 */
